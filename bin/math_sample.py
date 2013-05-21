@@ -49,6 +49,8 @@ def factorial(n):
 
     import math
 
+    test_bomb
+
     if not n >= 0:
         raise ValueError("n must be >= 0")
     if math.floor(n) != n:
